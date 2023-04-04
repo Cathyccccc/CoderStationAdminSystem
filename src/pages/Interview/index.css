@@ -1,0 +1,7 @@
+.card-detail img {
+  max-width: 100%;
+}
+
+.card-detail code {
+  white-space: break-spaces;
+}
